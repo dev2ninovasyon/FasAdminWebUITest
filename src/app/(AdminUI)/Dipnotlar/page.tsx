@@ -1,7 +1,7 @@
 "use client";
 
-import PageContainer from "@/app/components/Container/PageContainer";
-import Breadcrumb from "@/app/components/Layout/Shared/Breadcrumb/Breadcrumb";
+import PageContainer from "@/app/components/container/PageContainer";
+import Breadcrumb from "@/app/components/layout/Shared/Breadcrumb/Breadcrumb";
 import React, { useState } from "react";
 import { Divider, Grid, MenuItem, Tab, useTheme } from "@mui/material";
 import { AppState } from "@/store/store";
