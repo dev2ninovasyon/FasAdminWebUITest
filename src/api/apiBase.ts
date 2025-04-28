@@ -1,1 +1,1 @@
-export const url = "https://faswebapitest.azurewebsites.net/api";
+export const url = "https://2ninovasyon.online/api";
